@@ -1,5 +1,7 @@
 package com.deniszacharov;
-
+/*
+Есть фрагмент кода, который при запуске выдает ошибку NullPointerException. Найдите и исправьте ошибку:
+*/
 import java.util.ArrayList;
 import java.util.List;
 
